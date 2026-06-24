@@ -6,5 +6,9 @@ del del
 mer mer
 double
 
+<<<<<<< HEAD
 mergemerge
 
+=======
+mer mer
+>>>>>>> new-new
