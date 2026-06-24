@@ -1,4 +1,8 @@
 hello
 world
 test
+<<<<<<< HEAD
 prod
+=======
+del del
+>>>>>>> new-name
